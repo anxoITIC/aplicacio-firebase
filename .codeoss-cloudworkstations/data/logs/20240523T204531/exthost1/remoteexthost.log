@@ -1,0 +1,240 @@
+2024-05-23 20:45:44.116 [info] Extension host with pid 35 started
+2024-05-23 20:45:44.179 [info] Lock '/home/user/.codeoss-cloudworkstations/data/User/workspaceStorage/-655ff0a7/vscode.lock': Lock acquired.
+2024-05-23 20:45:44.217 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-05-23 20:45:45.213 [error] No bundle location found for extension vscode.emmet
+2024-05-23 20:45:45.562 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-05-23 20:45:45.569 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2024-05-23 20:45:45.906 [error] No bundle location found for extension vscode.git-base
+2024-05-23 20:45:46.080 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-05-23 20:45:46.081 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-05-23 20:45:46.083 [error] No bundle location found for extension vscode.npm
+2024-05-23 20:45:46.396 [error] No bundle location found for extension vscode.git
+2024-05-23 20:45:46.396 [error] No bundle location found for extension vscode.github
+2024-05-23 20:45:46.916 [warning] Using default string since no string found in i18n bundle that has the key: Log level: {0}
+2024-05-23 20:45:46.922 [warning] Using default string since no string found in i18n bundle that has the key: Validating found git in: "{0}"
+2024-05-23 20:45:46.950 [warning] Using default string since no string found in i18n bundle that has the key: Log level: {0}
+2024-05-23 20:45:47.038 [warning] Using default string since no string found in i18n bundle that has the key: Enables the following features: {0}
+2024-05-23 20:45:47.039 [warning] Using default string since no string found in i18n bundle that has the key: Using git "{0}" from "{1}"
+2024-05-23 20:45:47.072 [warning] Using default string since no string found in i18n bundle that has the key: Git History
+2024-05-23 20:45:47.078 [warning] Using default string since no string found in i18n bundle that has the key: Copy vscode.dev Link
+2024-05-23 20:45:47.079 [info] Eager extensions activated
+2024-05-23 20:45:47.080 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-05-23 20:45:47.081 [info] ExtensionService#_doActivateExtension google.cloud-workstations, startup: false, activationEvent: 'onStartupFinished'
+2024-05-23 20:45:47.082 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-05-23 20:45:47.083 [info] ExtensionService#_doActivateExtension google.monospace, startup: false, activationEvent: 'onStartupFinished'
+2024-05-23 20:45:47.084 [info] ExtensionService#_doActivateExtension google.monospace-aida, startup: false, activationEvent: 'onStartupFinished'
+2024-05-23 20:45:47.390 [error] No bundle location found for extension google.cloud-workstations
+2024-05-23 20:45:47.557 [error] No bundle location found for extension google.monospace
+2024-05-23 20:45:47.557 [error] No bundle location found for extension google.monospace-aida
+2024-05-23 20:45:47.557 [error] No bundle location found for extension vscode.debug-auto-launch
+2024-05-23 20:45:50.964 [warning] Using default string since no string found in i18n bundle that has the key: Auto Attach: Disabled
+2024-05-23 20:45:50.965 [warning] Using default string since no string found in i18n bundle that has the key: Auto Attach: Always
+2024-05-23 20:45:50.965 [warning] Using default string since no string found in i18n bundle that has the key: Auto Attach: Smart
+2024-05-23 20:45:50.965 [warning] Using default string since no string found in i18n bundle that has the key: Auto Attach: With Flag
+2024-05-23 20:45:50.965 [warning] Using default string since no string found in i18n bundle that has the key: Disabled
+2024-05-23 20:45:50.965 [warning] Using default string since no string found in i18n bundle that has the key: Always
+2024-05-23 20:45:50.965 [warning] Using default string since no string found in i18n bundle that has the key: Smart
+2024-05-23 20:45:50.965 [warning] Using default string since no string found in i18n bundle that has the key: Only With Flag
+2024-05-23 20:45:50.965 [warning] Using default string since no string found in i18n bundle that has the key: Auto attach is disabled and not shown in status bar
+2024-05-23 20:45:50.965 [warning] Using default string since no string found in i18n bundle that has the key: Auto attach to every Node.js process launched in the terminal
+2024-05-23 20:45:50.965 [warning] Using default string since no string found in i18n bundle that has the key: Auto attach when running scripts that aren't in a node_modules folder
+2024-05-23 20:45:50.965 [warning] Using default string since no string found in i18n bundle that has the key: Only auto attach when the `--inspect` flag is given
+2024-05-23 20:45:50.965 [warning] Using default string since no string found in i18n bundle that has the key: Toggle auto attach in this workspace
+2024-05-23 20:45:50.965 [warning] Using default string since no string found in i18n bundle that has the key: Toggle auto attach on this machine
+2024-05-23 20:45:50.965 [warning] Using default string since no string found in i18n bundle that has the key: Temporarily disable auto attach in this session
+2024-05-23 20:45:50.965 [warning] Using default string since no string found in i18n bundle that has the key: Re-enable auto attach
+2024-05-23 20:45:50.965 [warning] Using default string since no string found in i18n bundle that has the key: Auto Attach: Disabled
+2024-05-23 20:45:50.973 [error] No bundle location found for extension vscode.merge-conflict
+2024-05-23 20:45:51.045 [warning] Using default string since no string found in i18n bundle that has the key: (Current Change)
+2024-05-23 20:45:51.045 [warning] Using default string since no string found in i18n bundle that has the key: (Incoming Change)
+2024-05-23 20:45:57.051 [error] Error: Rpc timed out
+	at Timeout.<anonymous> (/opt/code-oss/extensions/monospace/dist/extension.js:2:12894964)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2024-05-23 20:46:26.077 [info] ExtensionService#_doActivateExtension undefined_publisher.nix-language, startup: false, activationEvent: 'onLanguage:nix'
+2024-05-23 20:46:26.505 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2024-05-23 20:46:26.514 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2024-05-23 20:46:26.651 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascriptreact'
+2024-05-23 20:46:27.024 [error] No bundle location found for extension undefined_publisher.nix-language
+2024-05-23 20:46:27.332 [error] No bundle location found for extension vscode.json-language-features
+2024-05-23 20:46:27.332 [error] No bundle location found for extension vscode.extension-editing
+2024-05-23 20:46:27.332 [error] No bundle location found for extension vscode.typescript-language-features
+2024-05-23 20:46:27.532 [warning] Using default string since no string found in i18n bundle that has the key: Configure
+2024-05-23 20:46:27.532 [warning] Using default string since no string found in i18n bundle that has the key: JSON Language Server
+2024-05-23 20:46:27.807 [warning] Using default string since no string found in i18n bundle that has the key: This activation event cannot be explicitly listed by your extension.
+2024-05-23 20:46:27.808 [warning] Using default string since no string found in i18n bundle that has the key: This activation event can be removed as Code OSS generates these automatically from your package.json contribution declarations.
+2024-05-23 20:46:27.811 [warning] Using default string since no string found in i18n bundle that has the key: Images must use the HTTPS protocol.
+2024-05-23 20:46:27.811 [warning] Using default string since no string found in i18n bundle that has the key: SVGs are not a valid image source.
+2024-05-23 20:46:27.811 [warning] Using default string since no string found in i18n bundle that has the key: Embedded SVGs are not a valid image source.
+2024-05-23 20:46:27.811 [warning] Using default string since no string found in i18n bundle that has the key: Data URLs are not a valid image source.
+2024-05-23 20:46:27.811 [warning] Using default string since no string found in i18n bundle that has the key: Relative image URLs require a repository with HTTPS protocol to be specified in the package.json.
+2024-05-23 20:46:27.811 [warning] Using default string since no string found in i18n bundle that has the key: Relative badge URLs require a repository with HTTPS protocol to be specified in this package.json.
+2024-05-23 20:46:27.811 [warning] Using default string since no string found in i18n bundle that has the key: This proposal cannot be used because for this extension the product defines a fixed set of API proposals. You can test your extension but before publishing you MUST reach out to the Code OSS team.
+2024-05-23 20:46:27.811 [warning] Using default string since no string found in i18n bundle that has the key: This activation event can be removed for extensions targeting engine version ^1.75 as Code OSS will generate these automatically from your package.json contribution declarations.
+2024-05-23 20:46:27.811 [warning] Using default string since no string found in i18n bundle that has the key: Using '*' activation is usually a bad idea as it impacts performance.
+2024-05-23 20:46:27.811 [warning] Using default string since no string found in i18n bundle that has the key: Error parsing the when-clause:
+2024-05-23 20:46:28.241 [warning] Using default string since no string found in i18n bundle that has the key: Learn more about managing TypeScript versions
+2024-05-23 20:46:28.576 [warning] Using default string since no string found in i18n bundle that has the key: TypeScript Version
+2024-05-23 20:46:28.577 [warning] Using default string since no string found in i18n bundle that has the key: TypeScript Version
+2024-05-23 20:46:28.578 [warning] Using default string since no string found in i18n bundle that has the key: TypeScript: Configure Excludes
+2024-05-23 20:46:28.685 [warning] Using default string since no string found in i18n bundle that has the key: Select Version
+2024-05-23 20:46:28.812 [warning] Using default string since no string found in i18n bundle that has the key: Could not determine references
+2024-05-23 20:46:28.871 [warning] Using default string since no string found in i18n bundle that has the key: Enables semantic checking in a JavaScript file. Must be at the top of a file.
+2024-05-23 20:46:28.871 [warning] Using default string since no string found in i18n bundle that has the key: Disables semantic checking in a JavaScript file. Must be at the top of a file.
+2024-05-23 20:46:28.871 [warning] Using default string since no string found in i18n bundle that has the key: Suppresses @ts-check errors on the next line of a file.
+2024-05-23 20:46:28.871 [warning] Using default string since no string found in i18n bundle that has the key: Suppresses @ts-check errors on the next line of a file, expecting at least one to exist.
+2024-05-23 20:46:28.883 [warning] Using default string since no string found in i18n bundle that has the key: Organize Imports
+2024-05-23 20:46:28.883 [warning] Using default string since no string found in i18n bundle that has the key: Sort Imports
+2024-05-23 20:46:28.883 [warning] Using default string since no string found in i18n bundle that has the key: Remove Unused Imports
+2024-05-23 20:46:28.891 [warning] Using default string since no string found in i18n bundle that has the key: Learn more about JS/TS refactorings
+2024-05-23 20:46:29.396 [warning] Using default string since no string found in i18n bundle that has the key: JSON: Schema Resolution Error
+2024-05-23 20:46:31.684 [warning] Using default string since no string found in i18n bundle that has the key: Unable to resolve schema. Click to retry.
+2024-05-23 20:46:31.685 [warning] Using default string since no string found in i18n bundle that has the key: JSON Validation Status
+2024-05-23 20:46:31.686 [warning] Using default string since no string found in i18n bundle that has the key: Unable to compute used schemas: No document
+2024-05-23 20:46:31.828 [error] Error: Rpc timed out
+	at Timeout.<anonymous> (/opt/code-oss/extensions/monospace/dist/extension.js:2:12892359)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2024-05-23 20:46:32.914 [error] Error: Rpc timed out
+	at Timeout.<anonymous> (/opt/code-oss/extensions/monospace/dist/extension.js:2:12892359)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2024-05-23 20:46:39.879 [error] Error: Rpc timed out
+	at Timeout.<anonymous> (/opt/code-oss/extensions/monospace/dist/extension.js:2:12892359)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2024-05-23 20:46:42.664 [warning] Using default string since no string found in i18n bundle that has the key: Fetching data for better TypeScript IntelliSense
+2024-05-23 20:46:44.726 [error] Error: Rpc timed out
+	at Timeout.<anonymous> (/opt/code-oss/extensions/monospace/dist/extension.js:2:12892359)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2024-05-23 20:46:45.353 [warning] Using default string since no string found in i18n bundle that has the key: Fetching data for better TypeScript IntelliSense
+2024-05-23 20:46:49.731 [error] Error: Rpc timed out
+	at Timeout.<anonymous> (/opt/code-oss/extensions/monospace/dist/extension.js:2:12892359)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2024-05-23 20:46:54.722 [error] Error: Rpc timed out
+	at Timeout.<anonymous> (/opt/code-oss/extensions/monospace/dist/extension.js:2:12892359)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2024-05-23 20:46:59.724 [error] Error: Rpc timed out
+	at Timeout.<anonymous> (/opt/code-oss/extensions/monospace/dist/extension.js:2:12892359)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2024-05-23 20:47:04.719 [error] Error: Rpc timed out
+	at Timeout.<anonymous> (/opt/code-oss/extensions/monospace/dist/extension.js:2:12892359)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2024-05-23 20:47:09.726 [error] Error: Rpc timed out
+	at Timeout.<anonymous> (/opt/code-oss/extensions/monospace/dist/extension.js:2:12892359)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2024-05-23 20:47:14.718 [error] Error: Rpc timed out
+	at Timeout.<anonymous> (/opt/code-oss/extensions/monospace/dist/extension.js:2:12892359)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2024-05-23 20:47:19.729 [error] Error: Rpc timed out
+	at Timeout.<anonymous> (/opt/code-oss/extensions/monospace/dist/extension.js:2:12892359)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2024-05-23 20:47:24.721 [error] Error: Rpc timed out
+	at Timeout.<anonymous> (/opt/code-oss/extensions/monospace/dist/extension.js:2:12892359)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2024-05-23 20:47:28.637 [error] Error: Rpc timed out
+	at Timeout.<anonymous> (/opt/code-oss/extensions/monospace/dist/extension.js:2:12892359)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2024-05-23 20:47:28.637 [error] Error: Rpc timed out
+	at Timeout.<anonymous> (/opt/code-oss/extensions/monospace/dist/extension.js:2:12892359)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2024-05-23 20:47:29.719 [error] Error: Rpc timed out
+	at Timeout.<anonymous> (/opt/code-oss/extensions/monospace/dist/extension.js:2:12892359)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2024-05-23 20:47:34.723 [error] Error: Rpc timed out
+	at Timeout.<anonymous> (/opt/code-oss/extensions/monospace/dist/extension.js:2:12892359)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2024-05-23 20:47:39.717 [error] Error: Rpc timed out
+	at Timeout.<anonymous> (/opt/code-oss/extensions/monospace/dist/extension.js:2:12892359)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2024-05-23 20:47:44.718 [error] Error: Rpc timed out
+	at Timeout.<anonymous> (/opt/code-oss/extensions/monospace/dist/extension.js:2:12892359)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2024-05-23 20:47:49.726 [error] Error: Rpc timed out
+	at Timeout.<anonymous> (/opt/code-oss/extensions/monospace/dist/extension.js:2:12892359)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2024-05-23 20:47:54.720 [error] Error: Rpc timed out
+	at Timeout.<anonymous> (/opt/code-oss/extensions/monospace/dist/extension.js:2:12892359)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2024-05-23 20:47:59.723 [error] Error: Rpc timed out
+	at Timeout.<anonymous> (/opt/code-oss/extensions/monospace/dist/extension.js:2:12892359)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2024-05-23 20:48:04.722 [error] Error: Rpc timed out
+	at Timeout.<anonymous> (/opt/code-oss/extensions/monospace/dist/extension.js:2:12892359)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2024-05-23 20:48:09.720 [error] Error: Rpc timed out
+	at Timeout.<anonymous> (/opt/code-oss/extensions/monospace/dist/extension.js:2:12892359)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2024-05-23 20:48:14.719 [error] Error: Rpc timed out
+	at Timeout.<anonymous> (/opt/code-oss/extensions/monospace/dist/extension.js:2:12892359)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2024-05-23 20:48:19.725 [error] Error: Rpc timed out
+	at Timeout.<anonymous> (/opt/code-oss/extensions/monospace/dist/extension.js:2:12892359)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2024-05-23 20:48:24.726 [error] Error: Rpc timed out
+	at Timeout.<anonymous> (/opt/code-oss/extensions/monospace/dist/extension.js:2:12892359)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2024-05-23 20:48:29.724 [error] Error: Rpc timed out
+	at Timeout.<anonymous> (/opt/code-oss/extensions/monospace/dist/extension.js:2:12892359)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2024-05-23 20:48:34.720 [error] Error: Rpc timed out
+	at Timeout.<anonymous> (/opt/code-oss/extensions/monospace/dist/extension.js:2:12892359)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2024-05-23 20:50:02.391 [warning] Using default string since no string found in i18n bundle that has the key: JS/TS IntelliSense Status
+2024-05-23 20:50:02.392 [warning] Using default string since no string found in i18n bundle that has the key: Loading IntelliSense status
+2024-05-23 20:50:02.397 [warning] Using default string since no string found in i18n bundle that has the key: Loading JSON info
+2024-05-23 20:50:02.441 [warning] Using default string since no string found in i18n bundle that has the key: No Schema Validation
+2024-05-23 20:50:02.441 [warning] Using default string since no string found in i18n bundle that has the key: no JSON schema configured
+2024-05-23 20:50:02.441 [warning] Using default string since no string found in i18n bundle that has the key: Show Schemas
+2024-05-23 20:50:02.562 [warning] Using default string since no string found in i18n bundle that has the key: No jsconfig
+2024-05-23 20:50:02.562 [warning] Using default string since no string found in i18n bundle that has the key: Configure jsconfig
+2024-05-23 20:50:04.644 [warning] Using default string since no string found in i18n bundle that has the key: Unable to compute used schemas: No document
+2024-05-23 20:50:04.743 [warning] Using default string since no string found in i18n bundle that has the key: JS/TS IntelliSense Status
+2024-05-23 20:50:04.744 [warning] Using default string since no string found in i18n bundle that has the key: Loading IntelliSense status
+2024-05-23 20:50:04.755 [warning] Using default string since no string found in i18n bundle that has the key: Loading JSON info
+2024-05-23 20:50:04.805 [warning] Using default string since no string found in i18n bundle that has the key: No Schema Validation
+2024-05-23 20:50:04.806 [warning] Using default string since no string found in i18n bundle that has the key: no JSON schema configured
+2024-05-23 20:50:04.806 [warning] Using default string since no string found in i18n bundle that has the key: Show Schemas
+2024-05-23 20:50:04.988 [warning] Using default string since no string found in i18n bundle that has the key: No jsconfig
+2024-05-23 20:50:04.988 [warning] Using default string since no string found in i18n bundle that has the key: Configure jsconfig
+2024-05-23 20:53:37.505 [warning] Using default string since no string found in i18n bundle that has the key: Unable to compute used schemas: No document
+2024-05-23 20:53:46.557 [warning] Using default string since no string found in i18n bundle that has the key: JS/TS IntelliSense Status
+2024-05-23 20:53:46.557 [warning] Using default string since no string found in i18n bundle that has the key: Loading IntelliSense status
+2024-05-23 20:53:46.559 [warning] Using default string since no string found in i18n bundle that has the key: Loading JSON info
+2024-05-23 20:53:46.564 [warning] Using default string since no string found in i18n bundle that has the key: No jsconfig
+2024-05-23 20:53:46.564 [warning] Using default string since no string found in i18n bundle that has the key: Configure jsconfig
+2024-05-23 20:53:46.587 [warning] Using default string since no string found in i18n bundle that has the key: No Schema Validation
+2024-05-23 20:53:46.587 [warning] Using default string since no string found in i18n bundle that has the key: no JSON schema configured
+2024-05-23 20:53:46.587 [warning] Using default string since no string found in i18n bundle that has the key: Show Schemas
+2024-05-23 20:53:46.600 [warning] Using default string since no string found in i18n bundle that has the key: Git repositories were found in the parent folders of the workspace or the open file(s). Would you like to open the repositories?
+2024-05-23 20:53:46.600 [warning] Using default string since no string found in i18n bundle that has the key: Yes
+2024-05-23 20:53:46.600 [warning] Using default string since no string found in i18n bundle that has the key: Always
+2024-05-23 20:53:46.600 [warning] Using default string since no string found in i18n bundle that has the key: Never
+2024-05-23 20:53:52.067 [warning] Using default string since no string found in i18n bundle that has the key: Open Repositories In Parent Folders
+2024-05-23 20:53:52.067 [warning] Using default string since no string found in i18n bundle that has the key: Pick a repository to open
+2024-05-23 20:53:52.067 [warning] Using default string since no string found in i18n bundle that has the key: All Repositories
