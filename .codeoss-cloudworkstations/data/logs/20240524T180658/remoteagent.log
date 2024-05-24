@@ -1,0 +1,10 @@
+2024-05-24 18:06:58.477 [info] 
+
+
+
+
+2024-05-24 18:06:58.532 [info] Extension host agent started.
+2024-05-24 18:06:58.591 [error] Unable to retrieve release information from known identifier paths.
+2024-05-24 18:07:06.730 [info] [127.0.0.1][df210f81][ManagementConnection] New connection established.
+2024-05-24 18:07:06.896 [info] [127.0.0.1][2acefb61][ExtensionHostConnection] New connection established.
+2024-05-24 18:07:06.947 [info] [127.0.0.1][2acefb61][ExtensionHostConnection] <35> Launched Extension Host Process.

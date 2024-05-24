@@ -1,0 +1,23 @@
+
+ 2024-05-24T18:07:26Z [web] : App state changed to : STARTING
+ 2024-05-24T18:07:26Z [web] : App state changed to : RUNNING
+ 2024-05-24T18:07:37Z [web] : 
+ 2024-05-24T18:07:37Z [web] : > myapp@0.0.0 dev
+ 2024-05-24T18:07:37Z [web] : > vite --port 9002 --host 0.0.0.0
+ 2024-05-24T18:07:37Z [web] : 
+ 2024-05-24T18:07:38Z [web] : 
+ 2024-05-24T18:07:38Z [web] :   VITE v5.2.11  ready in 985 ms
+ 2024-05-24T18:07:38Z [web] : 
+ 2024-05-24T18:07:38Z [web] :   ➜  Local:   http://localhost:9002/
+ 2024-05-24T18:07:38Z [web] :   ➜  Network: http://10.88.0.4:9002/
+ 2024-05-24T18:13:42Z [web] : App state changed to : RELOADING
+ 2024-05-24T18:13:42Z [web] : App state changed to : RUNNING
+ 2024-05-24T18:13:42Z [web] : App state changed to : RELOADING
+ 2024-05-24T18:13:42Z [web] : App state changed to : RUNNING
+ 2024-05-24T18:13:43Z [web] : App state changed to : RELOADING
+ 2024-05-24T18:13:43Z [web] : App state changed to : RUNNING
+ 2024-05-24T18:14:50Z [web] : App state changed to : RELOADING
+ 2024-05-24T18:14:50Z [web] : App state changed to : RUNNING
+ 2024-05-24T18:15:13Z [web] : App state changed to : RELOADING
+ 2024-05-24T18:15:13Z [web] : App state changed to : RUNNING
+ 2024-05-24T18:17:42Z [web] : App state changed to : RELOADING

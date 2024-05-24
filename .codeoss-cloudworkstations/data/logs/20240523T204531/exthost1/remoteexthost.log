@@ -238,3 +238,165 @@
 2024-05-23 20:53:52.067 [warning] Using default string since no string found in i18n bundle that has the key: Open Repositories In Parent Folders
 2024-05-23 20:53:52.067 [warning] Using default string since no string found in i18n bundle that has the key: Pick a repository to open
 2024-05-23 20:53:52.067 [warning] Using default string since no string found in i18n bundle that has the key: All Repositories
+2024-05-23 20:55:17.128 [warning] Using default string since no string found in i18n bundle that has the key: Unable to compute used schemas: No document
+2024-05-23 20:55:21.500 [warning] Using default string since no string found in i18n bundle that has the key: (Current Change)
+2024-05-23 20:55:21.502 [warning] Using default string since no string found in i18n bundle that has the key: (Incoming Change)
+2024-05-23 20:55:21.990 [warning] Using default string since no string found in i18n bundle that has the key: (Current Change)
+2024-05-23 20:55:21.991 [warning] Using default string since no string found in i18n bundle that has the key: (Incoming Change)
+2024-05-23 20:55:23.043 [error] Error: Rpc timed out
+	at Timeout.<anonymous> (/opt/code-oss/extensions/monospace/dist/extension.js:2:12892359)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2024-05-23 20:55:23.044 [error] Error: Rpc timed out
+	at Timeout.<anonymous> (/opt/code-oss/extensions/monospace/dist/extension.js:2:12892359)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2024-05-23 20:55:25.115 [error] Error: Rpc timed out
+	at Timeout.<anonymous> (/opt/code-oss/extensions/monospace/dist/extension.js:2:12892359)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2024-05-23 20:55:26.863 [error] Error: Rpc timed out
+	at Timeout.<anonymous> (/opt/code-oss/extensions/monospace/dist/extension.js:2:12892359)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2024-05-23 20:55:27.558 [error] Error: Rpc timed out
+	at Timeout.<anonymous> (/opt/code-oss/extensions/monospace/dist/extension.js:2:12892359)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2024-05-23 20:55:28.012 [error] Error: Rpc timed out
+	at Timeout.<anonymous> (/opt/code-oss/extensions/monospace/dist/extension.js:2:12892359)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2024-05-23 20:55:28.019 [error] Error: Rpc timed out
+	at Timeout.<anonymous> (/opt/code-oss/extensions/monospace/dist/extension.js:2:12892359)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2024-05-23 20:55:30.062 [error] Error: Rpc timed out
+	at Timeout.<anonymous> (/opt/code-oss/extensions/monospace/dist/extension.js:2:12892359)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2024-05-23 20:55:31.186 [error] Error: Rpc timed out
+	at Timeout.<anonymous> (/opt/code-oss/extensions/monospace/dist/extension.js:2:12892359)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2024-05-23 20:55:41.716 [error] Error: Rpc timed out
+	at Timeout.<anonymous> (/opt/code-oss/extensions/monospace/dist/extension.js:2:12892359)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2024-05-23 20:55:41.716 [error] Error: Rpc timed out
+	at Timeout.<anonymous> (/opt/code-oss/extensions/monospace/dist/extension.js:2:12892359)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2024-05-23 20:55:45.332 [error] Error: Rpc timed out
+	at Timeout.<anonymous> (/opt/code-oss/extensions/monospace/dist/extension.js:2:12892359)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2024-05-23 20:55:49.967 [error] Error: Rpc timed out
+	at Timeout.<anonymous> (/opt/code-oss/extensions/monospace/dist/extension.js:2:12892359)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2024-05-23 20:55:57.051 [error] Error: Rpc timed out
+	at Timeout.<anonymous> (/opt/code-oss/extensions/monospace/dist/extension.js:2:12892359)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2024-05-23 20:56:33.272 [error] Error: Rpc timed out
+	at Timeout.<anonymous> (/opt/code-oss/extensions/monospace/dist/extension.js:2:12892359)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2024-05-23 20:56:33.272 [error] Error: Rpc timed out
+	at Timeout.<anonymous> (/opt/code-oss/extensions/monospace/dist/extension.js:2:12892359)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2024-05-23 20:56:34.931 [error] Error: Rpc timed out
+	at Timeout.<anonymous> (/opt/code-oss/extensions/monospace/dist/extension.js:2:12892359)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2024-05-23 20:56:40.321 [error] Error: Rpc timed out
+	at Timeout.<anonymous> (/opt/code-oss/extensions/monospace/dist/extension.js:2:12892359)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2024-05-23 20:57:07.072 [error] Error: Rpc timed out
+	at Timeout.<anonymous> (/opt/code-oss/extensions/monospace/dist/extension.js:2:12892359)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2024-05-23 20:57:07.072 [error] Error: Rpc timed out
+	at Timeout.<anonymous> (/opt/code-oss/extensions/monospace/dist/extension.js:2:12892359)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2024-05-23 20:57:08.956 [error] Error: Rpc timed out
+	at Timeout.<anonymous> (/opt/code-oss/extensions/monospace/dist/extension.js:2:12892359)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2024-05-23 20:57:13.486 [error] Error: Rpc timed out
+	at Timeout.<anonymous> (/opt/code-oss/extensions/monospace/dist/extension.js:2:12892359)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2024-05-23 20:57:37.952 [error] Error: Rpc timed out
+	at Timeout.<anonymous> (/opt/code-oss/extensions/monospace/dist/extension.js:2:12892359)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2024-05-23 20:57:41.929 [error] Error: Rpc timed out
+	at Timeout.<anonymous> (/opt/code-oss/extensions/monospace/dist/extension.js:2:12892359)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2024-05-23 20:57:43.597 [warning] Using default string since no string found in i18n bundle that has the key: JS/TS IntelliSense Status
+2024-05-23 20:57:43.597 [warning] Using default string since no string found in i18n bundle that has the key: Loading IntelliSense status
+2024-05-23 20:57:43.599 [warning] Using default string since no string found in i18n bundle that has the key: Loading JSON info
+2024-05-23 20:57:43.601 [warning] Using default string since no string found in i18n bundle that has the key: No jsconfig
+2024-05-23 20:57:43.601 [warning] Using default string since no string found in i18n bundle that has the key: Configure jsconfig
+2024-05-23 20:57:43.602 [warning] Using default string since no string found in i18n bundle that has the key: No Schema Validation
+2024-05-23 20:57:43.602 [warning] Using default string since no string found in i18n bundle that has the key: no JSON schema configured
+2024-05-23 20:57:43.602 [warning] Using default string since no string found in i18n bundle that has the key: Show Schemas
+2024-05-23 20:57:48.380 [warning] Using default string since no string found in i18n bundle that has the key: Unable to compute used schemas: No document
+2024-05-23 20:57:52.660 [error] Error: Rpc timed out
+	at Timeout.<anonymous> (/opt/code-oss/extensions/monospace/dist/extension.js:2:12892359)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2024-05-23 20:57:53.344 [error] Error: Rpc timed out
+	at Timeout.<anonymous> (/opt/code-oss/extensions/monospace/dist/extension.js:2:12892359)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2024-05-23 20:57:55.492 [error] Error: Rpc timed out
+	at Timeout.<anonymous> (/opt/code-oss/extensions/monospace/dist/extension.js:2:12892359)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2024-05-23 20:57:55.658 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-05-23 20:57:57.025 [error] No bundle location found for extension vscode.github-authentication
+2024-05-23 20:57:57.115 [warning] Using default string since no string found in i18n bundle that has the key: url handler
+2024-05-23 20:57:57.116 [warning] Using default string since no string found in i18n bundle that has the key: local server
+2024-05-23 20:57:57.116 [warning] Using default string since no string found in i18n bundle that has the key: device code
+2024-05-23 20:57:57.116 [warning] Using default string since no string found in i18n bundle that has the key: personal access token
+2024-05-23 20:58:00.020 [warning] Using default string since no string found in i18n bundle that has the key: Yes
+2024-05-23 20:58:00.020 [warning] Using default string since no string found in i18n bundle that has the key: No
+2024-05-23 20:58:00.298 [warning] Using default string since no string found in i18n bundle that has the key: Copy & Continue to GitHub
+2024-05-23 20:58:00.298 [warning] Using default string since no string found in i18n bundle that has the key: Your Code: {0}/The {0} will be a code, e.g. 123-456
+2024-05-23 20:58:00.298 [warning] Using default string since no string found in i18n bundle that has the key: To finish authenticating, navigate to GitHub and paste in the above one-time code.
+2024-05-23 20:58:06.437 [warning] Using default string since no string found in i18n bundle that has the key: Open [{0}]({0}) in a new tab and paste your one-time code: {1}/The [{0}]({0}) will be a url and the {1} will be a code, e.g. 123-456{Locked="[{0}]({0})"}
+2024-05-23 20:58:28.248 [warning] Using default string since no string found in i18n bundle that has the key: JS/TS IntelliSense Status
+2024-05-23 20:58:28.248 [warning] Using default string since no string found in i18n bundle that has the key: Loading IntelliSense status
+2024-05-23 20:58:28.250 [warning] Using default string since no string found in i18n bundle that has the key: Loading JSON info
+2024-05-23 20:58:28.252 [warning] Using default string since no string found in i18n bundle that has the key: No jsconfig
+2024-05-23 20:58:28.253 [warning] Using default string since no string found in i18n bundle that has the key: Configure jsconfig
+2024-05-23 20:58:28.253 [warning] Using default string since no string found in i18n bundle that has the key: No Schema Validation
+2024-05-23 20:58:28.253 [warning] Using default string since no string found in i18n bundle that has the key: no JSON schema configured
+2024-05-23 20:58:28.253 [warning] Using default string since no string found in i18n bundle that has the key: Show Schemas
+2024-05-23 20:59:55.462 [info] Extension host terminating: received terminate message from renderer
+2024-05-23 20:59:55.463 [info] Lock '/home/user/.codeoss-cloudworkstations/data/User/workspaceStorage/-655ff0a7/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2024-05-23 20:59:55.605 [warning] Using default string since no string found in i18n bundle that has the key: Report Issue
+2024-05-23 20:59:55.605 [warning] Using default string since no string found in i18n bundle that has the key: The JS/TS language service crashed.
+2024-05-23 20:59:56.359 [error] Error: Pending response rejected since connection got disposed
+	at Object.dispose (/opt/code-oss/extensions/nix-language/dist/extension.js:2669:25)
+	at Object.dispose (/opt/code-oss/extensions/nix-language/dist/extension.js:15944:35)
+	at LanguageClient2.handleConnectionClosed (/opt/code-oss/extensions/nix-language/dist/extension.js:15563:30)
+	at LanguageClient2.handleConnectionClosed (/opt/code-oss/extensions/nix-language/dist/extension.js:17894:22)
+	at closeHandler (/opt/code-oss/extensions/nix-language/dist/extension.js:15551:16)
+	at CallbackList.invoke (/opt/code-oss/extensions/nix-language/dist/extension.js:832:35)
+	at _Emitter.fire (/opt/code-oss/extensions/nix-language/dist/extension.js:891:34)
+	at closeHandler (/opt/code-oss/extensions/nix-language/dist/extension.js:1879:24)
+	at CallbackList.invoke (/opt/code-oss/extensions/nix-language/dist/extension.js:832:35)
+	at _Emitter.fire (/opt/code-oss/extensions/nix-language/dist/extension.js:891:34)
+	at StreamMessageReader.fireClose (/opt/code-oss/extensions/nix-language/dist/extension.js:1180:27)
+	at Socket.<anonymous> (/opt/code-oss/extensions/nix-language/dist/extension.js:1263:42)
+	at Socket.emit (node:events:525:35)
+	at Pipe.<anonymous> (node:net:322:12)
+2024-05-23 20:59:56.359 [info] Extension host with pid 35 exiting with code 0

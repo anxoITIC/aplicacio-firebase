@@ -1,0 +1,17 @@
+{
+  "README.md": "7ba371da9da205a1b4d8cc022886eb55a9c743ba",
+  "index.html": "2dc3e3cad9c1dae82dcd0433e8dbbbf405a35917",
+  "vite.config.js": "7f8650984e84cec1cec54028bc3c47ea76987832",
+  "src/App.css": "72aea15a68732806cfd9663d29483a3f8fb5a831",
+  "src/index.css": "a7f656fcad4faf4a9fe6a55b2353267f191dda7d",
+  "src/main.jsx": "745d1458c380c3294cfd1082b7ac77d2a2771f71",
+  "src/App.jsx": "a71bfe654dbb96167e00d8b77692cc65244864d4",
+  "package.json": "6e11a885e66ff6b5610e07f7f0b6b9b5c5126a31",
+  "src/config/config.js": "dfb04a319a285c571ee3d78a75d1078d0faba2ad",
+  "src/pages/indexMenu.jsx": "ea8127505d62b2453a84159e5d344cfe2850d9cd",
+  "src/pages/moviesList.jsx": "4f666d6e9c9cb19c71435846a66f663908485816",
+  "src/ components/movieCard.jsx": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+  "src/ components/card.jsx": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+  "src/ components/addMovie.jsx": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+  "src/ components/welcome.jsx": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+}

@@ -1,0 +1,30 @@
+I[18:07:34.955] 134: nixd 1.2.3 started
+I[18:07:35.211] 134: <-- initialize(0)
+I[18:07:35.212] 134: --> reply:initialize(0)
+I[18:07:35.219] 134: <-- initialized
+I[18:07:35.219] 134: --> call workspace/configuration(1)
+I[18:07:35.231] 134: <-- textDocument/didOpen
+I[18:07:35.231] 134: --> notify textDocument/publishDiagnostics
+I[18:07:35.234] 134: --> notify nixd/ipc/textDocument/didOpen
+I[18:07:35.234] 134: --> notify nixd/ipc/eval
+I[18:07:35.240] 134: <-- reply(1)
+I[18:07:35.244] 134: --> notify nixd/ipc/textDocument/didOpen
+I[18:07:35.244] 134: --> notify nixd/ipc/eval
+I[18:07:35.253] 134: --> notify nixd/ipc/evalOptionSet
+I[18:07:35.447] 162: nixd 1.2.3 started
+I[18:07:35.477] 162: <-- nixd/ipc/textDocument/didOpen
+I[18:07:35.477] 162: <-- nixd/ipc/eval
+I[18:07:35.515] 162: --> notify nixd/ipc/diagnostic
+I[18:07:35.515] 134: <-- nixd/ipc/diagnostic
+I[18:07:35.515] 134: received diagnostic from worker: 2
+I[18:07:35.558] 166: nixd 1.2.3 started
+I[18:07:35.576] 166: <-- nixd/ipc/evalOptionSet
+I[18:07:35.577] 166: evaluation on installable , requested depth: 0
+I[18:07:35.587] 164: nixd 1.2.3 started
+I[18:07:35.602] 164: <-- nixd/ipc/textDocument/didOpen
+I[18:07:35.604] 164: <-- nixd/ipc/eval
+I[18:07:35.616] 164: --> notify nixd/ipc/diagnostic
+I[18:07:35.625] 134: <-- nixd/ipc/diagnostic
+I[18:07:35.626] 134: received diagnostic from worker: 2
+I[18:07:39.874] 166: options are ready
+I[18:10:28.664] 134: <-- textDocument/didClose

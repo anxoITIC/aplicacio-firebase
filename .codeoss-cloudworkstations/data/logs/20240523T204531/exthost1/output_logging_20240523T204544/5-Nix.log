@@ -28,3 +28,12 @@ I[20:46:35.995] 317: <-- nixd/ipc/diagnostic
 I[20:46:35.995] 317: received diagnostic from worker: 2
 I[20:46:41.051] 411: options are ready
 I[20:49:26.424] 317: <-- textDocument/didClose
+I[20:55:21.512] 317: <-- $/setTrace
+I[20:55:21.512] 317: unhandled notification $/setTrace
+I[20:55:22.042] 317: <-- $/setTrace
+I[20:55:22.042] 317: unhandled notification $/setTrace
+I[20:59:55.516] 317: <-- shutdown(1)
+[Error - 8:59:55 PM] Connection to server got closed. Server will not be restarted.
+[Error - 8:59:56 PM] Stopping server failed
+  Message: Pending response rejected since connection got disposed
+  Code: -32097 
