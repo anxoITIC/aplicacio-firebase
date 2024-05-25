@@ -8,3 +8,7 @@
 2024-05-24 18:07:06.730 [info] [127.0.0.1][df210f81][ManagementConnection] New connection established.
 2024-05-24 18:07:06.896 [info] [127.0.0.1][2acefb61][ExtensionHostConnection] New connection established.
 2024-05-24 18:07:06.947 [info] [127.0.0.1][2acefb61][ExtensionHostConnection] <35> Launched Extension Host Process.
+2024-05-24 18:21:07.596 [info] [127.0.0.1][df210f81][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-05-24 18:21:07.602 [error] Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+2024-05-24 18:21:08.204 [info] [127.0.0.1][2acefb61][ExtensionHostConnection] <35> Extension Host Process exited with code: 0, signal: null.

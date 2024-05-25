@@ -1,0 +1,243 @@
+
+ 2024-05-25T15:42:55Z [web] : App state changed to : STARTING
+ 2024-05-25T15:42:55Z [web] : App state changed to : RUNNING
+ 2024-05-25T15:43:10Z [web] : 
+ 2024-05-25T15:43:10Z [web] : > myapp@0.0.0 dev
+ 2024-05-25T15:43:10Z [web] : > vite --port 9002 --host 0.0.0.0
+ 2024-05-25T15:43:10Z [web] : 
+ 2024-05-25T15:43:12Z [web] : Re-optimizing dependencies because lockfile has changed
+ 2024-05-25T15:43:12Z [web] : 
+ 2024-05-25T15:43:12Z [web] :   VITE v5.2.11  ready in 1349 ms
+ 2024-05-25T15:43:12Z [web] : 
+ 2024-05-25T15:43:12Z [web] :   ➜  Local:   http://localhost:9002/
+ 2024-05-25T15:43:12Z [web] :   ➜  Network: http://10.88.0.4:9002/
+
+ 2024-05-25T17:59:31Z [web] : App state changed to : RELOADING
+ 2024-05-25T17:59:31Z [web] : App state changed to : RUNNING
+ 2024-05-25T17:59:43Z [web] : App state changed to : RELOADING
+ 2024-05-25T17:59:43Z [web] : App state changed to : RUNNING
+ 2024-05-25T18:00:20Z [web] : App state changed to : RELOADING
+ 2024-05-25T18:00:20Z [web] : App state changed to : RUNNING
+ 2024-05-25T18:00:31Z [web] : App state changed to : RELOADING
+ 2024-05-25T18:00:31Z [web] : App state changed to : RUNNING
+ 2024-05-25T18:00:34Z [web] : App state changed to : RELOADING
+ 2024-05-25T18:00:34Z [web] : App state changed to : RUNNING
+ 2024-05-25T18:00:35Z [web] : App state changed to : RELOADING
+ 2024-05-25T18:00:35Z [web] : App state changed to : RUNNING
+ 2024-05-25T18:00:38Z [web] : App state changed to : RELOADING
+ 2024-05-25T18:00:38Z [web] : App state changed to : RUNNING
+ 2024-05-25T18:00:43Z [web] : App state changed to : RELOADING
+ 2024-05-25T18:00:43Z [web] : App state changed to : RUNNING
+ 2024-05-25T18:00:55Z [web] : App state changed to : RELOADING
+ 2024-05-25T18:00:55Z [web] : App state changed to : RUNNING
+ 2024-05-25T18:01:03Z [web] : App state changed to : RELOADING
+ 2024-05-25T18:01:03Z [web] : App state changed to : RUNNING
+ 2024-05-25T18:01:11Z [web] : App state changed to : RELOADING
+ 2024-05-25T18:01:11Z [web] : App state changed to : RUNNING
+ 2024-05-25T18:01:12Z [web] : App state changed to : RELOADING
+ 2024-05-25T18:01:12Z [web] : App state changed to : RUNNING
+ 2024-05-25T18:01:19Z [web] : App state changed to : RELOADING
+ 2024-05-25T18:01:19Z [web] : App state changed to : RUNNING
+ 2024-05-25T18:01:22Z [web] : App state changed to : RELOADING
+ 2024-05-25T18:01:22Z [web] : App state changed to : RUNNING
+ 2024-05-25T18:01:24Z [web] : App state changed to : RELOADING
+ 2024-05-25T18:01:24Z [web] : App state changed to : RUNNING
+ 2024-05-25T18:01:26Z [web] : App state changed to : RELOADING
+ 2024-05-25T18:01:26Z [web] : App state changed to : RUNNING
+ 2024-05-25T18:01:32Z [web] : App state changed to : RELOADING
+ 2024-05-25T18:01:32Z [web] : App state changed to : RUNNING
+ 2024-05-25T18:01:40Z [web] : App state changed to : RELOADING
+ 2024-05-25T18:01:40Z [web] : App state changed to : RUNNING
+ 2024-05-25T18:01:40Z [web] : App state changed to : RELOADING
+ 2024-05-25T18:01:40Z [web] : App state changed to : RUNNING
+ 2024-05-25T18:01:55Z [web] : App state changed to : RELOADING
+ 2024-05-25T18:01:55Z [web] : App state changed to : RUNNING
+ 2024-05-25T18:02:00Z [web] : App state changed to : RELOADING
+ 2024-05-25T18:02:00Z [web] : App state changed to : RUNNING
+ 2024-05-25T18:02:04Z [web] : App state changed to : RELOADING
+ 2024-05-25T18:02:04Z [web] : App state changed to : RUNNING
+ 2024-05-25T18:02:05Z [web] : App state changed to : RELOADING
+ 2024-05-25T18:02:05Z [web] : App state changed to : RUNNING
+ 2024-05-25T18:02:08Z [web] : App state changed to : RELOADING
+ 2024-05-25T18:02:08Z [web] : App state changed to : RUNNING
+ 2024-05-25T18:02:12Z [web] : App state changed to : RELOADING
+ 2024-05-25T18:02:12Z [web] : App state changed to : RUNNING
+ 2024-05-25T18:02:13Z [web] : App state changed to : RELOADING
+ 2024-05-25T18:02:13Z [web] : App state changed to : RUNNING
+ 2024-05-25T18:02:14Z [web] : App state changed to : RELOADING
+ 2024-05-25T18:02:14Z [web] : App state changed to : RUNNING
+ 2024-05-25T18:02:47Z [web] : 6:02:47 PM [vite] hmr update /src/App.jsx
+ 2024-05-25T18:02:47Z [web] : 6:02:47 PM [vite] hmr update /src/App.jsx
+ 2024-05-25T18:02:47Z [web] : App state changed to : RELOADING
+ 2024-05-25T18:02:47Z [web] : App state changed to : RUNNING
+ 2024-05-25T18:02:51Z [web] : 6:02:51 PM [vite] hmr update /src/App.jsx
+ 2024-05-25T18:02:51Z [web] : App state changed to : RELOADING
+ 2024-05-25T18:02:51Z [web] : App state changed to : RUNNING
+ 2024-05-25T18:02:57Z [web] : 6:02:57 PM [vite] hmr update /src/App.jsx
+ 2024-05-25T18:02:57Z [web] : App state changed to : RELOADING
+ 2024-05-25T18:02:57Z [web] : App state changed to : RUNNING
+ 2024-05-25T18:02:58Z [web] : 6:02:58 PM [vite] hmr update /src/App.jsx
+ 2024-05-25T18:02:59Z [web] : App state changed to : RELOADING
+ 2024-05-25T18:02:59Z [web] : App state changed to : RUNNING
+ 2024-05-25T18:03:13Z [web] : 6:03:13 PM [vite] hmr update /src/App.jsx
+ 2024-05-25T18:03:13Z [web] : App state changed to : RELOADING
+ 2024-05-25T18:03:13Z [web] : App state changed to : RUNNING
+ 2024-05-25T18:03:18Z [web] : 6:03:18 PM [vite] hmr update /src/App.jsx
+ 2024-05-25T18:03:18Z [web] : App state changed to : RELOADING
+ 2024-05-25T18:03:18Z [web] : App state changed to : RUNNING
+ 2024-05-25T18:03:19Z [web] : 6:03:19 PM [vite] hmr update /src/App.jsx
+ 2024-05-25T18:03:19Z [web] : App state changed to : RELOADING
+ 2024-05-25T18:03:19Z [web] : App state changed to : RUNNING
+ 2024-05-25T18:03:23Z [web] : 6:03:23 PM [vite] hmr update /src/App.jsx
+ 2024-05-25T18:03:23Z [web] : App state changed to : RELOADING
+ 2024-05-25T18:03:23Z [web] : App state changed to : RUNNING
+ 2024-05-25T18:03:28Z [web] : 6:03:28 PM [vite] hmr update /src/App.jsx
+ 2024-05-25T18:03:28Z [web] : App state changed to : RELOADING
+ 2024-05-25T18:03:28Z [web] : App state changed to : RUNNING
+ 2024-05-25T18:03:31Z [web] : 6:03:31 PM [vite] hmr update /src/App.jsx
+ 2024-05-25T18:03:31Z [web] : App state changed to : RELOADING
+ 2024-05-25T18:03:31Z [web] : App state changed to : RUNNING
+ 2024-05-25T18:03:33Z [web] : 6:03:33 PM [vite] hmr update /src/App.jsx
+ 2024-05-25T18:03:33Z [web] : App state changed to : RELOADING
+ 2024-05-25T18:03:33Z [web] : App state changed to : RUNNING
+ 2024-05-25T18:03:34Z [web] : 6:03:34 PM [vite] hmr update /src/App.jsx
+ 2024-05-25T18:03:34Z [web] : App state changed to : RELOADING
+ 2024-05-25T18:03:34Z [web] : App state changed to : RUNNING
+ 2024-05-25T18:03:39Z [web] : 6:03:39 PM [vite] hmr update /src/App.jsx
+ 2024-05-25T18:03:39Z [web] : App state changed to : RELOADING
+ 2024-05-25T18:03:39Z [web] : App state changed to : RUNNING
+ 2024-05-25T18:03:44Z [web] : 6:03:44 PM [vite] hmr update /src/App.jsx
+ 2024-05-25T18:03:44Z [web] : App state changed to : RELOADING
+ 2024-05-25T18:03:44Z [web] : App state changed to : RUNNING
+ 2024-05-25T18:03:45Z [web] : 6:03:45 PM [vite] hmr update /src/App.jsx
+ 2024-05-25T18:03:46Z [web] : App state changed to : RELOADING
+ 2024-05-25T18:03:46Z [web] : App state changed to : RUNNING
+ 2024-05-25T18:03:46Z [web] : 6:03:46 PM [vite] hmr update /src/App.jsx
+ 2024-05-25T18:03:46Z [web] : App state changed to : RELOADING
+ 2024-05-25T18:03:46Z [web] : App state changed to : RUNNING
+ 2024-05-25T18:03:46Z [web] : 6:03:46 PM [vite] hmr update /src/App.jsx
+ 2024-05-25T18:03:46Z [web] : App state changed to : RELOADING
+ 2024-05-25T18:03:46Z [web] : App state changed to : RUNNING
+ 2024-05-25T18:03:47Z [web] : 6:03:47 PM [vite] hmr update /src/App.jsx
+ 2024-05-25T18:03:47Z [web] : App state changed to : RELOADING
+ 2024-05-25T18:03:47Z [web] : App state changed to : RUNNING
+ 2024-05-25T18:03:47Z [web] : 6:03:47 PM [vite] hmr update /src/App.jsx
+ 2024-05-25T18:03:47Z [web] : App state changed to : RELOADING
+ 2024-05-25T18:03:47Z [web] : App state changed to : RUNNING
+ 2024-05-25T18:03:47Z [web] : 6:03:47 PM [vite] hmr update /src/App.jsx
+ 2024-05-25T18:03:47Z [web] : App state changed to : RELOADING
+ 2024-05-25T18:03:47Z [web] : App state changed to : RUNNING
+ 2024-05-25T18:03:48Z [web] : 6:03:48 PM [vite] hmr update /src/App.jsx
+ 2024-05-25T18:03:48Z [web] : App state changed to : RELOADING
+ 2024-05-25T18:03:48Z [web] : App state changed to : RUNNING
+ 2024-05-25T18:03:51Z [web] : 6:03:51 PM [vite] hmr update /src/App.jsx
+ 2024-05-25T18:03:51Z [web] : App state changed to : RELOADING
+ 2024-05-25T18:03:51Z [web] : App state changed to : RUNNING
+ 2024-05-25T18:03:55Z [web] : 6:03:55 PM [vite] hmr update /src/App.jsx
+ 2024-05-25T18:03:55Z [web] : App state changed to : RELOADING
+ 2024-05-25T18:03:55Z [web] : App state changed to : RUNNING
+ 2024-05-25T18:03:56Z [web] : 6:03:56 PM [vite] hmr update /src/App.jsx
+ 2024-05-25T18:03:56Z [web] : App state changed to : RELOADING
+ 2024-05-25T18:03:56Z [web] : App state changed to : RUNNING
+ 2024-05-25T18:04:05Z [web] : 6:04:05 PM [vite] hmr update /src/App.jsx
+ 2024-05-25T18:04:06Z [web] : App state changed to : RELOADING
+ 2024-05-25T18:04:06Z [web] : App state changed to : RUNNING
+ 2024-05-25T18:04:19Z [web] : 6:04:19 PM [vite] hmr update /src/App.jsx
+ 2024-05-25T18:04:19Z [web] : App state changed to : RELOADING
+ 2024-05-25T18:04:19Z [web] : App state changed to : RUNNING
+ 2024-05-25T18:04:20Z [web] : 6:04:20 PM [vite] hmr update /src/App.jsx
+ 2024-05-25T18:04:21Z [web] : App state changed to : RELOADING
+ 2024-05-25T18:04:21Z [web] : App state changed to : RUNNING
+ 2024-05-25T18:04:27Z [web] : 6:04:27 PM [vite] hmr update /src/App.jsx
+ 2024-05-25T18:04:27Z [web] : App state changed to : RELOADING
+ 2024-05-25T18:04:27Z [web] : App state changed to : RUNNING
+ 2024-05-25T18:04:36Z [web] : 6:04:36 PM [vite] hmr update /src/App.jsx
+ 2024-05-25T18:04:37Z [web] : App state changed to : RELOADING
+ 2024-05-25T18:04:37Z [web] : App state changed to : RUNNING
+ 2024-05-25T18:04:44Z [web] : 6:04:44 PM [vite] hmr update /src/App.jsx
+ 2024-05-25T18:04:44Z [web] : App state changed to : RELOADING
+ 2024-05-25T18:04:44Z [web] : App state changed to : RUNNING
+ 2024-05-25T18:04:47Z [web] : 6:04:47 PM [vite] hmr update /src/App.jsx
+ 2024-05-25T18:04:47Z [web] : App state changed to : RELOADING
+ 2024-05-25T18:04:47Z [web] : App state changed to : RUNNING
+ 2024-05-25T18:04:50Z [web] : 6:04:49 PM [vite] hmr update /src/App.jsx
+ 2024-05-25T18:04:50Z [web] : App state changed to : RELOADING
+ 2024-05-25T18:04:50Z [web] : App state changed to : RUNNING
+ 2024-05-25T18:04:50Z [web] : 6:04:50 PM [vite] hmr update /src/App.jsx
+ 2024-05-25T18:04:50Z [web] : App state changed to : RELOADING
+ 2024-05-25T18:04:50Z [web] : App state changed to : RUNNING
+ 2024-05-25T18:04:51Z [web] : 6:04:51 PM [vite] hmr update /src/App.jsx
+ 2024-05-25T18:04:52Z [web] : App state changed to : RELOADING
+ 2024-05-25T18:04:52Z [web] : App state changed to : RUNNING
+ 2024-05-25T18:04:53Z [web] : 6:04:53 PM [vite] hmr update /src/App.jsx
+ 2024-05-25T18:04:53Z [web] : App state changed to : RELOADING
+ 2024-05-25T18:04:53Z [web] : App state changed to : RUNNING
+ 2024-05-25T18:04:55Z [web] : 6:04:55 PM [vite] hmr update /src/App.jsx
+ 2024-05-25T18:04:55Z [web] : App state changed to : RELOADING
+ 2024-05-25T18:04:55Z [web] : App state changed to : RUNNING
+ 2024-05-25T18:05:37Z [web] : 6:05:37 PM [vite] hmr update /src/App.css
+ 2024-05-25T18:05:37Z [web] : App state changed to : RELOADING
+ 2024-05-25T18:05:37Z [web] : App state changed to : RUNNING
+ 2024-05-25T18:05:38Z [web] : 6:05:38 PM [vite] hmr update /src/App.css
+ 2024-05-25T18:05:38Z [web] : App state changed to : RELOADING
+ 2024-05-25T18:05:38Z [web] : App state changed to : RUNNING
+ 2024-05-25T18:05:59Z [web] : 6:05:59 PM [vite] hmr update /src/index.css
+ 2024-05-25T18:06:00Z [web] : App state changed to : RELOADING
+ 2024-05-25T18:06:00Z [web] : App state changed to : RUNNING
+ 2024-05-25T18:06:00Z [web] : 6:06:00 PM [vite] hmr update /src/index.css
+ 2024-05-25T18:06:00Z [web] : App state changed to : RELOADING
+ 2024-05-25T18:06:00Z [web] : App state changed to : RUNNING
+ 2024-05-25T18:06:00Z [web] : 6:06:00 PM [vite] hmr update /src/index.css
+ 2024-05-25T18:06:00Z [web] : App state changed to : RELOADING
+ 2024-05-25T18:06:00Z [web] : App state changed to : RUNNING
+ 2024-05-25T18:06:19Z [web] : 6:06:19 PM [vite] page reload src/main.jsx
+ 2024-05-25T18:06:19Z [web] : App state changed to : RELOADING
+ 2024-05-25T18:06:19Z [web] : App state changed to : RUNNING
+ 2024-05-25T18:06:19Z [web] : 6:06:19 PM [vite] page reload src/main.jsx
+ 2024-05-25T18:06:20Z [web] : App state changed to : RELOADING
+ 2024-05-25T18:06:20Z [web] : App state changed to : RUNNING
+ 2024-05-25T18:06:20Z [web] : 6:06:20 PM [vite] page reload src/main.jsx
+ 2024-05-25T18:06:20Z [web] : App state changed to : RELOADING
+ 2024-05-25T18:06:20Z [web] : App state changed to : RUNNING
+ 2024-05-25T18:06:40Z [web] : App state changed to : RELOADING
+ 2024-05-25T18:06:40Z [web] : App state changed to : RUNNING
+ 2024-05-25T18:06:44Z [web] : App state changed to : RELOADING
+ 2024-05-25T18:06:44Z [web] : App state changed to : RUNNING
+ 2024-05-25T18:10:18Z [web] : 6:10:18 PM [vite] vite.config.js changed, restarting server...
+ 2024-05-25T18:10:18Z [web] : Re-optimizing dependencies because lockfile has changed
+ 2024-05-25T18:10:18Z [web] : 6:10:18 PM [vite] server restarted.
+ 2024-05-25T18:10:18Z [web] : App state changed to : RELOADING
+ 2024-05-25T18:10:18Z [web] : App state changed to : RUNNING
+ 2024-05-25T18:10:19Z [web] : Error: Error: The following dependencies are imported but could not be resolved:
+
+  react-icons/ci (imported by /home/user/app-firebase/src/pages/moviesList.jsx)
+
+Are they installed?
+    at file:///home/user/app-firebase/node_modules/vite/dist/node/chunks/dep-cNe07EU9.js:52538:23
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async file:///home/user/app-firebase/node_modules/vite/dist/node/chunks/dep-cNe07EU9.js:52004:38
+
+ 2024-05-25T18:10:19Z [web] : 6:10:19 PM [vite] vite.config.js changed, restarting server...
+ 2024-05-25T18:10:19Z [web] : 6:10:19 PM [vite] server restarted.
+ 2024-05-25T18:10:19Z [web] : Error: Error: The following dependencies are imported but could not be resolved:
+
+  react-icons/ci (imported by /home/user/app-firebase/src/pages/moviesList.jsx)
+
+Are they installed?
+    at file:///home/user/app-firebase/node_modules/vite/dist/node/chunks/dep-cNe07EU9.js:52538:23
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async file:///home/user/app-firebase/node_modules/vite/dist/node/chunks/dep-cNe07EU9.js:52004:38
+
+ 2024-05-25T18:10:19Z [web] : App state changed to : RELOADING
+ 2024-05-25T18:10:19Z [web] : App state changed to : RUNNING
+ 2024-05-25T19:11:01Z [web] : App state changed to : RELOADING
+ 2024-05-25T19:11:01Z [web] : App state changed to : RUNNING
+ 2024-05-25T19:11:03Z [web] : App state changed to : RELOADING
+ 2024-05-25T19:11:03Z [web] : App state changed to : RUNNING
+ 2024-05-25T19:11:06Z [web] : App state changed to : RELOADING
+ 2024-05-25T19:11:06Z [web] : App state changed to : RUNNING
+ 2024-05-25T19:11:19Z [web] : App state changed to : RELOADING
+ 2024-05-25T19:11:19Z [web] : App state changed to : RUNNING
+ 2024-05-25T19:11:22Z [web] : App state changed to : RELOADING
+ 2024-05-25T19:11:22Z [web] : App state changed to : RUNNING
+ 2024-05-25T19:11:23Z [web] : App state changed to : RELOADING

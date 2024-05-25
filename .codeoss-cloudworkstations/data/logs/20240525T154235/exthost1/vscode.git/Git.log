@@ -1,0 +1,21 @@
+2024-05-25 15:42:46.332 [info] Log level: Info
+2024-05-25 15:42:46.332 [info] Validating found git in: "git"
+2024-05-25 15:42:46.332 [info] Using git "2.42.0" from "git"
+2024-05-25 15:42:46.332 [info] > git rev-parse --show-toplevel [462ms]
+2024-05-25 15:42:46.708 [info] > git rev-parse --git-dir --git-common-dir [386ms]
+2024-05-25 15:42:46.830 [info] Open repository: /home/user
+2024-05-25 15:42:53.994 [info] > git config --get commit.template [7097ms]
+2024-05-25 15:42:54.730 [info] > git rev-parse --show-toplevel [7777ms]
+2024-05-25 15:42:55.163 [info] > git check-ignore -v -z --stdin [1131ms]
+2024-05-25 15:42:55.477 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [563ms]
+2024-05-25 15:42:55.507 [info] > git rev-parse --show-toplevel [486ms]
+2024-05-25 15:42:55.747 [info] > git rev-parse --show-toplevel [132ms]
+2024-05-25 15:42:55.951 [info] > git rev-parse --show-toplevel [74ms]
+2024-05-25 15:42:57.198 [info] > git rev-parse --show-toplevel [702ms]
+2024-05-25 15:42:59.128 [info] > git show --textconv :app-firebase/src/pages/indexMenu.jsx [1656ms]
+2024-05-25 15:42:59.130 [info] > git ls-files --stage -- /home/user/app-firebase/src/pages/indexMenu.jsx [1549ms]
+2024-05-25 15:42:59.932 [info] > git cat-file -s 497bd27898a8cb08e1e120786a5819d4ce70bb0d [587ms]
+2024-05-25 15:43:03.578 [info] > git status -z -uall [8072ms]
+2024-05-25 15:43:03.802 [info] > git config --get commit.template [66ms]
+2024-05-25 15:43:04.148 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [306ms]
+2024-05-25 15:43:07.665 [info] > git status -z -uall [3453ms]

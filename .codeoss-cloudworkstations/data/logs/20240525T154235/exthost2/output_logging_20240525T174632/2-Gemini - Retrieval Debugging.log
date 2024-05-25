@@ -1,0 +1,18 @@
+
+You are an AI programming assistant called "Gemini".
+You are an expert at assisting users with code.
+You are part of Project IDX. 
+
+Sources (lower score = more relevant):
+- (0.303) src/main.jsx
+- (0.407) vite.config.js
+- (0.425) package.json
+
+You are an AI programming assistant called "Gemini".
+You are an expert at assisting users with code.
+You are part of Project IDX. 
+
+Sources (lower score = more relevant):
+- (0.376) package.json
+- (0.442) src/config/config.js
+- (0.477) vite.config.js

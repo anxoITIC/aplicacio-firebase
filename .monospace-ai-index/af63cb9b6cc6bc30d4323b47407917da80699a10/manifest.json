@@ -1,17 +1,17 @@
 {
   "README.md": "7ba371da9da205a1b4d8cc022886eb55a9c743ba",
   "index.html": "2dc3e3cad9c1dae82dcd0433e8dbbbf405a35917",
-  "vite.config.js": "7f8650984e84cec1cec54028bc3c47ea76987832",
-  "src/App.css": "72aea15a68732806cfd9663d29483a3f8fb5a831",
-  "src/index.css": "a7f656fcad4faf4a9fe6a55b2353267f191dda7d",
-  "src/main.jsx": "745d1458c380c3294cfd1082b7ac77d2a2771f71",
-  "src/App.jsx": "a71bfe654dbb96167e00d8b77692cc65244864d4",
-  "package.json": "6e11a885e66ff6b5610e07f7f0b6b9b5c5126a31",
-  "src/config/config.js": "dfb04a319a285c571ee3d78a75d1078d0faba2ad",
   "src/pages/indexMenu.jsx": "ea8127505d62b2453a84159e5d344cfe2850d9cd",
   "src/pages/moviesList.jsx": "4f666d6e9c9cb19c71435846a66f663908485816",
-  "src/ components/movieCard.jsx": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-  "src/ components/card.jsx": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-  "src/ components/addMovie.jsx": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-  "src/ components/welcome.jsx": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  "src/ components/movieCard.jsx": "c4f2563e10b8e64a7b7aee4188fcc2e9d2735d8a",
+  "src/ components/card.jsx": "736b5ddc09c4eebb02bc92812f76a4b3dbeb8930",
+  "src/ components/addMovie.jsx": "b2350db18790ae4c666bdfeb3ed4cdb088f9f95d",
+  "src/ components/welcome.jsx": "ba13406a56e395ed7ac4c530d34f93a68636dd2b",
+  "src/App.jsx": "cb85b66cbd37f83b0c5abdc0749690eae9c8b2f1",
+  "src/App.css": "78eb215904cff16d4d876ddf82510576d9f8b2c6",
+  "src/index.css": "ec6b73e8ecec9bb5342646c22a4f21d77ab532e0",
+  "src/main.jsx": "f2aca2ef798a6de2fb267ad998a9c8d2a38c9b63",
+  "vite.config.js": "09c0298f2ab91830f18660e6ad17a6c94d9029db",
+  "package.json": "5bad8595b6760fa7d315e4980246da2ba9f19f1b",
+  "src/config/config.js": "3fb6e8fed8770d1c248f474c88ee4f7437541e5e"
 }

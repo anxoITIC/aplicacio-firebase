@@ -28,3 +28,8 @@ I[18:07:35.625] 134: <-- nixd/ipc/diagnostic
 I[18:07:35.626] 134: received diagnostic from worker: 2
 I[18:07:39.874] 166: options are ready
 I[18:10:28.664] 134: <-- textDocument/didClose
+I[18:21:07.680] 134: <-- shutdown(1)
+[Error - 6:21:07 PM] Connection to server got closed. Server will not be restarted.
+[Error - 6:21:08 PM] Stopping server failed
+  Message: Pending response rejected since connection got disposed
+  Code: -32097 

@@ -1,0 +1,35 @@
+I[15:43:06.107] 153: nixd 1.2.3 started
+I[15:43:06.120] 153: <-- initialize(0)
+I[15:43:06.123] 153: --> reply:initialize(0)
+I[15:43:06.502] 153: <-- initialized
+I[15:43:06.502] 153: --> call workspace/configuration(1)
+I[15:43:06.722] 153: <-- textDocument/didOpen
+I[15:43:06.722] 153: --> notify textDocument/publishDiagnostics
+I[15:43:06.726] 153: --> notify nixd/ipc/textDocument/didOpen
+I[15:43:06.727] 153: --> notify nixd/ipc/eval
+I[15:43:06.764] 153: <-- reply(1)
+I[15:43:06.767] 153: --> notify nixd/ipc/textDocument/didOpen
+I[15:43:06.768] 153: --> notify nixd/ipc/eval
+I[15:43:06.776] 153: --> notify nixd/ipc/evalOptionSet
+I[15:43:07.395] 188: nixd 1.2.3 started
+I[15:43:07.395] 186: nixd 1.2.3 started
+I[15:43:07.416] 184: nixd 1.2.3 started
+I[15:43:07.710] 188: <-- nixd/ipc/evalOptionSet
+I[15:43:07.711] 188: evaluation on installable , requested depth: 0
+I[15:43:07.712] 186: <-- nixd/ipc/textDocument/didOpen
+I[15:43:07.712] 186: <-- nixd/ipc/eval
+I[15:43:07.713] 184: <-- nixd/ipc/textDocument/didOpen
+I[15:43:07.713] 184: <-- nixd/ipc/eval
+I[15:43:07.741] 184: --> notify nixd/ipc/diagnostic
+I[15:43:07.742] 153: <-- nixd/ipc/diagnostic
+I[15:43:07.742] 153: received diagnostic from worker: 2
+I[15:43:07.743] 186: --> notify nixd/ipc/diagnostic
+I[15:43:07.743] 153: <-- nixd/ipc/diagnostic
+I[15:43:07.743] 153: received diagnostic from worker: 2
+I[15:43:18.190] 188: options are ready
+I[15:46:52.976] 153: <-- textDocument/didClose
+I[17:51:31.021] 153: <-- shutdown(1)
+[Error - 5:51:31 PM] Connection to server got closed. Server will not be restarted.
+[Error - 5:51:32 PM] Stopping server failed
+  Message: Pending response rejected since connection got disposed
+  Code: -32097 

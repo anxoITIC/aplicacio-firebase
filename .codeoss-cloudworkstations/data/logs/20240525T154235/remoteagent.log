@@ -1,0 +1,16 @@
+2024-05-25 15:42:35.185 [info] 
+
+
+
+
+2024-05-25 15:42:35.219 [info] Extension host agent started.
+2024-05-25 15:42:35.260 [error] Unable to retrieve release information from known identifier paths.
+2024-05-25 15:42:37.215 [info] [127.0.0.1][a1ea5097][ManagementConnection] New connection established.
+2024-05-25 15:42:37.306 [info] [127.0.0.1][c901fb10][ExtensionHostConnection] New connection established.
+2024-05-25 15:42:37.329 [info] [127.0.0.1][c901fb10][ExtensionHostConnection] <35> Launched Extension Host Process.
+2024-05-25 17:46:30.455 [info] [127.0.0.1][6294ac2f][ManagementConnection] New connection established.
+2024-05-25 17:46:30.475 [info] [127.0.0.1][282b5163][ExtensionHostConnection] New connection established.
+2024-05-25 17:46:30.496 [info] [127.0.0.1][282b5163][ExtensionHostConnection] <22685> Launched Extension Host Process.
+2024-05-25 17:51:32.210 [info] [127.0.0.1][c901fb10][ExtensionHostConnection] <35> Extension Host Process exited with code: 0, signal: null.
+2024-05-25 19:14:23.765 [info] [127.0.0.1][6294ac2f][ManagementConnection] The client has reconnected.
+2024-05-25 19:14:23.889 [info] [127.0.0.1][282b5163][ExtensionHostConnection] The client has reconnected.
